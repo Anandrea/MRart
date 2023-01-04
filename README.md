@@ -1,3 +1,3 @@
 # MRart
 
-https://github.com/Anandrea/MRart/index.html
+https://anandrea.github.io/MRart/index.html
